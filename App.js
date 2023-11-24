@@ -35,6 +35,7 @@ export default function App() {
               flexDirection: "row",
               alignItems: "center",
               justifyContent: "center",
+              gap: 16,
             }}
           >
             <Image

@@ -1,0 +1,29 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Balbasaur",
+      "pokemonId": 1
+    },
+    {
+      "id": 2,
+      "name": "Caterpie",
+      "pokemonId": 10
+    },
+    {
+      "id": 3,
+      "name": "Charmander",
+      "pokemonId": 4
+    },
+    {
+      "id": 4,
+      "name": "Squirtle",
+      "pokemonId": 7
+    },
+    {
+      "id": 5,
+      "name": "Charizard",
+      "pokemonId": 6
+    }
+  ]
+}

@@ -24,6 +24,11 @@
       "id": 5,
       "name": "Charizard",
       "pokemonId": 6
+    },
+    {
+      "id": 6,
+      "name": "Pikachu",
+      "pokemonId": 25
     }
   ]
 }

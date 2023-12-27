@@ -14,3 +14,12 @@ src
 ├── components      -- components
 └── features        -- feature bazlı
 </pre>
+
+<hr />
+
+# Authentication
+
+1. [Firebase](https://console.firebase.google.com/) <br>
+2. [Async Storage](https://docs.expo.dev/versions/latest/sdk/async-storage/)
+
+<hr />
